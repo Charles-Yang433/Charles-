@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <bits/stdc++.h>//万能头不是哪儿都能用
 using namespace std;
 int main(){
     int a,b;

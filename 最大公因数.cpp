@@ -27,6 +27,6 @@ using namespace std;
 int main(){
     int a,b;
     scanf("%d %d",&a,&b);
-    printf("%d和%d的最大公因数是%d。",a,b,gcd(a,b));
+    printf("%d和%d的最大公因数是%d。",a,b,__gcd(a,b));
     return 0;
 }
